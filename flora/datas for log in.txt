@@ -1,0 +1,6 @@
+ 		  login		password
+
+Администратор:	  admin		  admin
+
+
+Пользователь:	  user		  user
